@@ -1,0 +1,30 @@
+<?xml version= "1.0" encoding= "UTF-8" ?>
+<rss version= "2.0">
+    <channel>
+        <title>MyRSSFeed</ title >
+        <item>
+            <title>Feed Element 1</ title >
+            <link>http://enter.your.valid.link.here</ link >
+            <description>
+                The Feed Element 1 Description
+            </description>
+            <pubDate>Wed, 01 Mar 2017 23:24:30 +0530</ pubDate >
+        </item>
+        <item>
+            <title>Feed Element 2</ title >
+            <link>http://enter.your.valid.link.here</ link >
+            <description>
+                The Feed Element 2 Description
+            </ description >
+            <pubDate>Wed, 01 Mar 2017 23:24:30 +0530</ pubDate >
+        </ item >
+        <item>
+            <title>Feed Element 3</ title >
+            <link>http://enter.your.valid.link.here</ link >
+            <description>
+                The Feed Element 3 Description
+            </ description >
+            <pubDate>Wed, 01 Mar 2017 23:24:30 +0530</ pubDate >
+        </ item >
+    </ channel >
+</ rss >
